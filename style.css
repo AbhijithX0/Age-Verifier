@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#age-button{
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 2px solid black;
+    background-color: rgb(161, 70, 247);
+    cursor: pointer;
+    margin-top: 10px;
+    
+}
+
+#age-input{
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 2px solid black;
+    background-color: rgb(255, 247, 2);
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+ label{
+    font-size: 30px;
+ }
